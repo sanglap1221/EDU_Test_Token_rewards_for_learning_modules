@@ -187,6 +187,7 @@ document.getElementById("connectWallet").addEventListener("click", async () => {
 });
 
 
+
 async function loadProjectDetails() {
     try {
         const desc = await contract.methods.projectDescription().call();
