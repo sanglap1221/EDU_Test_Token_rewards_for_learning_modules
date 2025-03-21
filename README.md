@@ -26,6 +26,8 @@ This project aims to revolutionize online learning by incentivizing learners wit
 0x7C4DDBcb27619883C561AaC082dB37d7CBbfEEdC
 ![image](https://github.com/user-attachments/assets/82762a23-18ff-415c-8a3f-1ae0025eee42)
 
+
+##Frontend
 ![image](https://github.com/user-attachments/assets/63a586f3-c119-47d9-9d2f-24ce5c317a05)
 
 
